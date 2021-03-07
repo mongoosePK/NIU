@@ -1,0 +1,5 @@
+﻿  Assignment7.cpp
+c:\users\william.willpower\onedrive\documents\visual studio 2015\projects\assignment7\assignment7\assignment7.cpp(146): error C2662: 'size_t Queue<char>::size(void)': cannot convert 'this' pointer from 'const Queue<char>' to 'Queue<char> &'
+  c:\users\william.willpower\onedrive\documents\visual studio 2015\projects\assignment7\assignment7\assignment7.cpp(146): note: Conversion loses qualifiers
+c:\users\william.willpower\onedrive\documents\visual studio 2015\projects\assignment7\assignment7\assignment7.cpp(147): error C2662: 'bool Queue<char>::empty(void)': cannot convert 'this' pointer from 'const Queue<char>' to 'Queue<char> &'
+  c:\users\william.willpower\onedrive\documents\visual studio 2015\projects\assignment7\assignment7\assignment7.cpp(147): note: Conversion loses qualifiers
